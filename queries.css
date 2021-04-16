@@ -1,0 +1,140 @@
+@media only screen and (max-width: 1200px) {
+  #header,
+  #middle,
+  #footer {
+    margin-bottom: 100px;
+  }
+  #left {
+    margin-top: 130px;
+  }
+  .m1 {
+    font-size: 50px;
+  }
+  .mid {
+    font-size: 70px;
+  }
+  #right {
+    margin-top: 130px;
+  }
+  .message {
+    font-size: 50px;
+  }
+  .number {
+    margin-top: 100px;
+    margin-left: 500px;
+    margin-right: 500px;
+  }
+  .mat {
+    font-size: 35px;
+    width: 300px;
+  }
+}
+/* 768 to 1023 */
+@media only screen and (max-width: 1023px) {
+  #header,
+  #middle,
+  #footer {
+    margin-bottom: 100px;
+  }
+  #left {
+    margin-top: 750px;
+  }
+  .m1 {
+    font-size: 80px;
+    margin-top: 80px;
+  }
+  #header {
+    margin-bottom: 300px;
+  }
+  .mid {
+    font-size: 70px;
+  }
+  #right {
+    margin-top: 750px;
+  }
+  .message {
+    margin-top: 40px;
+    font-size: 74px;
+  }
+  .number {
+    margin-top: 250px;
+    font-size: 90px;
+    margin-left: 500px;
+    margin-right: 500px;
+  }
+  .mat {
+    font-size: 60px;
+    width: 500px;
+  }
+  .btnagain {
+    width: 300px;
+    height: 120px;
+    font-size: 80px;
+  }
+  .num {
+    margin-top: 10px;
+    font-size: 100px;
+  }
+  .btncheck {
+    width: 300px;
+    height: 120px;
+    font-size: 70px;
+  }
+  .guess {
+    width: 370px;
+    height: 120px;
+    font-size: 50px;
+  }
+}
+/* 481 to 767 */
+@media only screen and (max-width: 767px) {
+  #header,
+  #middle,
+  #footer {
+    margin-bottom: 100px;
+  }
+  #left {
+    margin-top: 100px;
+  }
+  .m1 {
+    font-size: 100px;
+    margin-top: 20px;
+  }
+  .mid {
+    font-size: 70px;
+  }
+  #right {
+    margin-top: 550px;
+  }
+  .message {
+    margin-top: 200px;
+    font-size: 200px;
+  }
+  .number {
+    margin-top: 150px;
+    margin-left: 500px;
+    margin-right: 500px;
+  }
+  .mat {
+    font-size: 35px;
+    width: 300px;
+  }
+  .btnagain {
+    width: 300px;
+    height: 120px;
+    font-size: 50px;
+  }
+  .btncheck {
+    width: 300px;
+    height: 120px;
+    font-size: 50px;
+  }
+  .guess {
+    width: 370px;
+    height: 120px;
+    font-size: 50px;
+  }
+}
+/* 0 to 480 */
+@media only screen and (max-width: 480px) {
+}
