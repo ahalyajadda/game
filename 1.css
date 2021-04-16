@@ -1,0 +1,95 @@
+body{
+	background-color:black;
+	width:1350px;
+	height:100px;
+}
+#header{
+  
+  width: 1350px;
+  height: 90px;
+  float:left;
+}
+	#l{
+		
+		width:1150px;
+		height:90px;
+		float:left;
+	}
+		.btnagain{
+			margin:10px;
+			width:200px;
+			height:60px;
+			font-size:40px;
+			float:left;
+		}
+	#r{
+		
+		width:100px;
+		height:90px;
+		float:left;
+
+	}
+
+		.mat{
+			width:200px;
+			height:50px;
+			font-size:25px;
+			float:left;
+			color:white;
+
+		}
+	
+#middle{
+	
+	width:1350px;
+	height:300px;
+
+}
+	.mid{
+		text-align:center;
+		font-size:60px;
+		color:white;
+
+	}
+	.number{
+		border:9px white solid;
+
+
+	}
+#footer{
+	
+	width:1350px;
+	height:305px;
+
+}
+	#left{
+		margin:10px 20px;
+		width:600px;
+		height:290px;
+		float:left;
+	}
+		.guess{
+			margin:40px 40px 0px 80px;
+			width:250px;
+			height:100px;	
+			font-size:40px;
+		}
+		.btncheck{
+			margin:10px 40px 0px 100px;
+			width:200px;
+			height:70px;
+			font-size:40px;
+		}
+	#right{
+		
+		margin:10px 20px;
+		width:600px;
+		height:290px;
+		float:left;
+	}
+		.message{
+			margin:0px 0px 0px 100px;
+			padding:10px;
+			font-size:30px;
+			color:white;
+		}
